@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function App() {
-  return (
-    <div>
-      HI
-    </div>
-  )
+  return <div className="bg-black text-white text-center h-screen">HI</div>;
 }
 
-export default App
+export default App;
